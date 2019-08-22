@@ -10,3 +10,6 @@ Analysis for measurements in the context of the Geant4 MC simulation of Xebra
 -  git add .
 -  git commit -m "ADD SOME COMMENT "
 -  git push origin "BRACH_NAME"
+
+## Instructions for jupyter on hydra:
+- jupyter notebook --no-browser --ip=10.4.73.172 --port=8080
